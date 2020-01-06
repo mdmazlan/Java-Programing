@@ -23,7 +23,7 @@ public class Input_Number_Scanner {
        //Summation 
        int sum = value1+value2;
        
-       JOptionPane.showMessageDialog(null,+ sum);    
+       JOptionPane.showMessageDialog(null,"Sum = "+ sum);    
        
     }
 }
